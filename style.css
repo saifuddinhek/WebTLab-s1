@@ -71,18 +71,22 @@
 }
 
 .navbar-links {
-    padding: 10px;
+    /* padding: 10px; */
 }
 
 .navbar-links a{
     text-decoration: none;
+    display: inline-block;
     color: white;
+    padding: 15px;
+    margin: 0px;
 
 
 }
 
 .navbar-links a:hover {
-    background-origin: white;
+    background-color: white;
+    color: black
 }
 
 .main {
